@@ -55,7 +55,6 @@ p {
 .container {
     width: 100%;
     margin: 0 auto;
-    padding: 0 20px;
 }
 
 /*----------- Header -------------*/
@@ -244,8 +243,7 @@ p {
 
 footer{
     background-color: #F7F7F7;
-    width: 100%;
-    
+    padding: 20px;
 }
 
 .slider{
@@ -413,13 +411,3 @@ td{
         margin-top: 10px;
     }
 }
-
-
-
-
-
-
-
-
-
-
